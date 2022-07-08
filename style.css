@@ -1,0 +1,511 @@
+            
+                 /* HOME START */
+.head-54{
+    background:green;
+}
+.s {
+    font-size: 28px;
+    color: #E795B3;
+    font-style:cursive;
+}
+.t{
+    font-style: cursive;
+    color:cyan;
+}
+.u{
+    font-style:cursive;
+    color: orange;
+}
+.d{
+    font-style: cursive;
+    color: ;
+}
+.y{
+    font-style: cursive;
+    color:yellow ;
+}
+.o{
+    font-style: sans-serif;
+    color:white;
+}
+.e{
+    font-style: fantasy;
+    color:red;
+    font-size: 26px;
+}
+.x{
+    font-style: sans-serif;
+    color:#eee;
+}
+.a{
+    font-style: sans-serif;
+    color:#B0C4DE;
+}
+.m{
+    font-style: sans-serif;
+    color: ;
+}
+
+#website-name{
+    color: #7FFF9B;
+    font-familly: none;
+    font-size: 22px;
+    margin: auto;
+}
+
+/*
+.navbar-brand{
+  font-style:inherit;normal|italic|oblique|initial|
+}
+
+
+serif, sans serif, cursive, fantasy, and monospace.
+
+
+
+*/
+#container {
+    background: #000033;
+    height:auto;
+    margin-top: px;
+}
+#container {
+    
+}
+.container-fluid {
+    background: black;
+    
+}
+.container-fluid .fas {
+    font-size: 25px;
+    
+    
+}
+
+/*
+.container ul li a:hover {
+    background: #333;
+    color: white;
+    border-radius: 20px;
+    width: 10px;
+    height: 60px;
+}*/
+.container-fluid {
+    margin-top:-19px;
+}
+
+#home{
+    position: sticky;
+  top:10px;
+}
+#home{}
+
+.navbar-toggler {
+    background:silver;
+    font-size: 13px;
+    margin-top:3;
+    
+   
+}
+
+.navbar{
+    height:20px;
+}
+.navbar-nav {
+    background:black;
+}
+.hhh {
+    color:white;
+    background:green;
+    border-radius: 5px;
+    width: 100px;
+    font-size:14px;
+}
+.fas {
+    color:silver;
+}
+.fa-home{
+    margin-top: 6px;
+}
+.dropdown-menu {
+    background: green;
+}
+                  /* HOME END */
+                  
+                  
+               /* ICON START*/
+
+              /* ICON END */
+
+
+              /* Main Page  START*/  
+
+              /* Main Page END */
+
+                   /* NOTIC START */
+.tlabukk{
+    margin-left:15px;
+    margin-right:15px;
+    background:#B0C4DE;
+    color:#191970;
+    border-radius:3px;
+    font-size: 14px;
+    height:19px;
+}
+.tlabukk{
+    position: sticky;
+    top:72px;
+}
+                     /* NOTIC END */
+
+
+
+/*
+.gggg {
+    margin-top: -12px;
+}*/
+                 /* body start */
+.your-wish {
+    color: #ddd;
+}
+.jsc {
+    color: green;
+}
+.nine {
+    color: yellow;
+}
+.ssc {
+    color: orange;
+}
+.mcq {
+    color:pink;
+}
+
+#paragraph {
+    font-size: 16px;
+    color: white;
+}
+.website {
+    color: #cc0099;
+}
+.hhhh {
+    background: #993333;
+    border-radius: 5px;
+    font-size: 20px;
+    color: white;
+}
+
+.button-1 {
+    text-align: center;
+    background: #ddd;
+    font-size: 15.7px;
+}
+.button-1 a {
+    color: green;
+    text-decoration: none;
+}
+.button-1 {
+    width: 100px;
+    height: 35px;
+    margin: auto;
+}
+.button-1 ul:hover {
+    background: black;
+    color: white;
+    border-radius: 25px;
+    transition: all 0.5s;
+    height: 38px;
+}
+.button-1 ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0;
+}
+.button-1 ul li {
+    display: inline-block;
+}
+.button-1 {
+    border-radius: 25px;
+}
+#freeexam-tk{
+    margin-top: 8px;
+}
+.img {
+    margin: auto;
+    size: 50px;
+}
+.our {
+    margin: auto;
+}
+.our {
+    font-size: 22px;
+    color: #cc0099;
+    
+}
+              /* body end */
+              
+              
+              
+            /* FOOTER START */
+
+
+.menu {
+    height: 6px;
+    margin-top: 100px;
+}
+.last_menu {
+    background:#678;
+    height: 150px;
+}
+.last_menu {
+    color: white;
+    margin-top: 20px;
+}
+.last_menu a {
+    text-decoration: none;
+}
+.fa-facebook {
+    position: absolute;
+    margin-left: 100px;
+    color: #ddd;
+    margin-top: 80px;
+    font-size: 20px;
+}
+.fa-youtube {
+    position: absolute;
+    margin-left: 145px;
+    color: #ddd;
+    margin-top: 80px;
+    font-size: 20px;
+}
+.fa-google {
+    position: absolute;
+    margin-left: 190px;
+    color: #ddd;
+    margin-top: 80px;
+    font-size: 20px;
+}
+.fa-Instagram {
+    position: absolute;
+    margin-left: 235px;
+    color: #ddd;
+    margin-top: 80px;
+    font-size: 20px;
+}
+.fa-envelope-open-text {
+    position: absolute;
+    margin-left: 20px;
+    color: #ddd;
+    margin-top: 48px;
+    font-size: 10px;
+}
+
+.Contact {
+    position: absolute;
+    margin-top: 25px;
+    left: 17px;
+    font-size:14px;
+}
+.gmail {
+    position: absolute;
+    margin-top: 45px;
+    margin-left: 30px;
+    font-size: 10px;
+    color: #ddd;
+}
+            /* FOOTER END */
+
+.fa-arrow-alt-circle-up {
+    margin-top: 110px;
+    margin-left: 330px;
+    font-size: 26px;
+}
+
+
+
+
+
+.notic {
+    color: #000033;
+    background:white;
+    margin-top:-8px;
+
+}
+
+
+
+
+
+
+.imggg {
+    width: 280px;
+    height: 280px;
+    border-radius: 15px;
+
+
+}
+
+.imgg a:hover {
+    background: #333;
+    color: white;
+    border-radius: 3px;
+
+}
+
+#tk{
+    color:#5E7D7E;
+    padding:0px;
+    margin: auto;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 15px;
+}
+
+
+.tk1{
+    color:#008B8B;
+    font-size: 15px;
+    
+}
+       /*OUR PLANS SECTION START CSS*/
+.section{
+    margin:0px;
+    padding:0px;
+    width:220px;
+    height:100px;
+    background:silver;
+    margin:auto;
+    border-radius:10px;
+    display:block;
+    
+}
+.section a{
+    color:white;
+    text-decoration:none;
+    
+}
+
+.in{
+    font-size: 16px;
+}
+.class-999{
+    margin-top: 5px;
+}
+.in ul{
+    
+}
+
+
+      /*JSC */
+      
+.class-jsc{
+    margin-left:15px;
+    width: 80px;
+    height: 30px;
+    border: 2px solid green;
+    background:#AB784E;
+    margin-top:-8px ;
+    
+}
+
+      /*SSC*/
+      
+.class-ssc{
+    margin-left:125px;
+    margin-top: -50px;
+    
+    width: 80px;
+    height: 30px;
+    border: 2px solid green;
+    background:#AB784E;
+}
+      /*HSC*/
+.class-hsc{
+    margin-top:19px;
+    margin-left:15px;
+    width: 80px;
+    height: 30px;
+    border: 2px solid green;
+    background:#AB784E;
+    margin-top: -6px;
+} 
+      /*General Knowleadg*/
+.class-gk{
+    margin-top:-30px;
+    margin-left:125px;
+    width: 80px;
+    height: 30px;
+    border: 2px solid green;
+    background:#AB784E;
+}
+
+
+.ttkk a:hover{
+    background: black;
+    color: white;
+    border-radius: 25px;
+    transition: all 0.5s;
+    height: 38px;
+}
+
+#tlovek a:hover{
+    background:black;
+    color: green;
+    border-radius: 50px;
+    transition: all 0.5s;
+    height: 38px;
+    
+}
+            
+            
+                  
+                  /* STUDY PAGE*/
+#studypage{
+    font-size:22px;
+    color:orange;
+    background:none;
+    margin-top:25px;
+    margin-left:90px;
+    margin-right:90px;
+    border:3px solid silver;
+}
+
+#studypages{
+    padding-top: 80px;
+}
+                  
+                  
+                  
+                  
+                  /*STUDY PAGE END*/
+
+
+ 
+       /*OUR PLANS SECTION CSS END*/
+       
+       
+
+           
+  /*❤️❤️❤️❤️❤️❤️❤️❤  box-shadow: 0 2px 4px cyan️❤️❤️❤️❤️❤️❤️❤️*/ 
+div.scrollmenutk {
+    background-color:black;
+    overflow: auto;
+    white-space: nowrap;
+    height: 23px;
+    box-shadow: 0 2px 8px #333;
+}
+
+div.scrollmenutk a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 0 8px;
+    text-decoration: none;
+    border-right: 1px solid #d4d4d4;
+    font-size: 14px;
+    line-height: 20px
+}
+
+div.scrollmenutk{
+    margin-top:16px;
+}
